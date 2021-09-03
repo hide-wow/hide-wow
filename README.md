@@ -11,7 +11,7 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp;
 </p>
 
-<h1 align="center">LEARN</h1>
+<h1 align="center">LEARNING</h1>
 <p align="center">
     <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
 </p>
@@ -22,7 +22,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hide-wow&show_icons=true&theme=jolly&count_private=true" /><br /><br />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=jolly&count_private=true" /><br />
 </div>
-
-```js
-Discord: hide#1000
-```
