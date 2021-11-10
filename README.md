@@ -20,5 +20,5 @@
 <div align="center">
     <h3> stat</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=hide-wow&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=jolly&count_private=true" /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=dark&count_private=true" /><br />
 </div>
