@@ -1,10 +1,5 @@
 # HideLeOuf
 
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/850452394559143957.png">
-</p><br/><br/><br/>
-
 <h1 align="center">language</h1>
 
 <p align="center"> 
