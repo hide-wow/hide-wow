@@ -1,12 +1,12 @@
 # HideLeOuf
 
-<h1 align="center">language</h1>
+<h1 align="center">achieved</h1>
 
 <p align="center"> 
   <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp;
 </p>
 
-<h1 align="center">j'apprends</h1>
+<h1 align="center">learning</h1>
 <p align="center">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
 </p>
