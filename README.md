@@ -52,9 +52,7 @@ I like my computer, music, my friends and movies.
 
 <div align="center">
     <h3> my statistics</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=notpunchnox"><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=NotPunchnox&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NotPunchnox&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPunchnox&layout=compact&theme=jolly&count_private=true" /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=hide-wow&show_icons=true&theme=jolly&count_private=true" /><br /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=jolly&count_private=true" /><br />
 </div>
 
