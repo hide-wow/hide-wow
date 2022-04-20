@@ -1,4 +1,4 @@
-
+#Hide
 
 <p align="center">
 <a href="https://soundcloud.com/hideleouf">
@@ -24,4 +24,11 @@ projects = [
     "pyrat",
     "other hidden projects 😉"
 ]
+```
+
+#About me
+```text
+I'm a very young developer
+I have several projects on hold and I have already done several
+I like my computer, music, my friends and movies.
 ```
