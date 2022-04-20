@@ -46,7 +46,7 @@ projects = [
 # About me
 ```text
 I'm a very young developer
-I have several projects on hold and I have already done several
+I have several projects on hold, in fact I have already done some of them but i'm too lazy to update
 I like my computer, music, my friends and movies.
 ```
 
