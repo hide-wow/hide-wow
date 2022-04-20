@@ -52,7 +52,7 @@ I like my computer, music, my friends and movies.
 
 <div align="center">
     <h3> my statistics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=hide-wow&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=jolly&count_private=true" /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=hide-wow&show_icons=true&theme=github_dark&count_private=true" /><br /><br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-wow&layout=compact&theme=github_dark&count_private=true" /><br />
 </div>
 
