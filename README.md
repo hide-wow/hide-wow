@@ -16,3 +16,12 @@ hidewow = {
     "other activities": ["graphism", "music", "trolling"]
 }
 ```
+
+```py
+projects = [
+    "Antic",
+    "speak",
+    "pyrat",
+    "other hidden projects 😉"
+]
+```
