@@ -1,4 +1,4 @@
-** Hide
+# Hide
 
 <p align="center">
 <a href="https://soundcloud.com/hideleouf">
@@ -26,7 +26,7 @@ projects = [
 ]
 ```
 
-** About me
+# About me
 ```text
 I'm a very young developer
 I have several projects on hold and I have already done several
