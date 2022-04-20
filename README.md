@@ -15,6 +15,13 @@
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 </p>
 
+<p align="center"> 
+  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/qt/qt-original.svg"></code>&nbsp; |
+</code>&nbsp;
+</p>
+
 ```py
 hidewow = {
     "names": ["hide", "hide-wow", "HideLeOuf"],
