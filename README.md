@@ -19,6 +19,7 @@
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg"></code>&nbsp; |
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/qt/qt-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg"></code>&nbsp;
 </code>&nbsp;
 </p>
 
