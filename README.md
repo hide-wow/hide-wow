@@ -27,7 +27,7 @@
 hidewow = {
     "names": ["hide", "hide-wow", "HideLeOuf", "leavexit"],
     "from": "France",
-    "age": 14
+    "age": 14,
     "job": "schoolboy",
     "learning": ["programming", "reverse engineering", "ethical hacking"],
 
