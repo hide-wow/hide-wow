@@ -25,7 +25,7 @@
 
 ```py
 hidewow = {
-    "names": ["hide", "hide-wow", "HideLeOuf"],
+    "names": ["hide", "hide-wow", "HideLeOuf", "leavexit"],
     "from": "France",
     "job": "schoolboy",
     "learning": ["programming", "reverse engineering", "ethical hacking"],
