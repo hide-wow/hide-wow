@@ -9,6 +9,7 @@
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp; |
