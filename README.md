@@ -1,15 +1,15 @@
 # Me
 
-<p align="center">
 <center>
+<p align="center">
 <a href="https://soundcloud.com/hideleouf">
 <img alt="Soundcloud" width="50px" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png"/>
 </a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
-  <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
+<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
 </a>
-</center>
 </p>
+</center>
 
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
