@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
-  <img alt="Spotify" width="400px" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
+  <img alt="Spotify" width="345px" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
 </a>
 </p>
 
