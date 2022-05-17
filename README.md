@@ -1,7 +1,7 @@
 # Me
 
 <center>
-<p align="center">
+<p>
 <a href="https://soundcloud.com/hideleouf">
 <img alt="Soundcloud" width="50px" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png"/>
 </a>
