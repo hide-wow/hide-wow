@@ -6,9 +6,7 @@
 </a>
 </p>
 
-<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
 
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
