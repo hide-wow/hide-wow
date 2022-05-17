@@ -1,12 +1,10 @@
 # Me
 
-<p align="center">
+31% width each:
+<p align="center" width="100%">
 <a href="https://soundcloud.com/hideleouf">
   <img alt="Soundcloud" width="50px" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png"/>
 </a>
-</p>
-
-<p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
   <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
 </a>
