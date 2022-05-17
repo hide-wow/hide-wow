@@ -1,8 +1,9 @@
 # Me
 
 31% width each:
-<p align="center" width="100%">
+<p align="center">
 <a href="https://soundcloud.com/hideleouf">
+  
   <img alt="Soundcloud" width="50px" src="https://icons.iconarchive.com/icons/danleech/simple/256/soundcloud-icon.png"/>
 </a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
