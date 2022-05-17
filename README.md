@@ -6,7 +6,11 @@
 </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true)
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
+  <img alt="Soundcloud" width="50px" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
+</a>
+</p>
 
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
