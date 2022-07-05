@@ -27,6 +27,7 @@
 </p>
 
 <br clear="left"/>
+
 ```py
 hidewow = {
     "names": ["hide", "hide-wow", "HideLeOuf", "leavexit"],
@@ -38,7 +39,7 @@ hidewow = {
     "other activities": ["graphism", "music", "trolling"]
 }
 ```
-
+<p align="left"><img alt="" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/></p>
 ```py
 projects = [
     "Antic",
@@ -47,7 +48,6 @@ projects = [
     "other hidden projects 😉"
 ]
 ```
-<p align="left"><img alt="" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/></p>
 
 # About me
 ```text
