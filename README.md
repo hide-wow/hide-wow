@@ -1,5 +1,6 @@
 # Me
 
+<p align="center">If you want to see what i'm listening to rn, refresh your tab</p>
 <p align="center"> 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&redirect=true">
 <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=poturnt&cover_image=true&theme=novatorem&bar_color=58089b&bar_color_cover=true"/>
