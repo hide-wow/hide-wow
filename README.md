@@ -26,7 +26,7 @@
 </code>&nbsp;
 </p>
 
-<img align="left" height="400" src="https://cdn.discordapp.com/attachments/944685696797507624/993926907882131557/tumblr_72d9b6fc30d4eb5f3a7cb99913bff8c2_0ba0164c_640.webp"/>
+<img align="left" height="380" src="https://cdn.discordapp.com/attachments/944685696797507624/993926907882131557/tumblr_72d9b6fc30d4eb5f3a7cb99913bff8c2_0ba0164c_640.webp"/>
 
 ```py
 hidewow = {
@@ -51,7 +51,7 @@ projects = [
 
 # About me
 
-<img align="right" height="105" src="https://cdn.discordapp.com/attachments/944685696797507624/993927374204838038/d927ec2-1487c3ad-5d81-4898-b78e-ee98f0e369a8.png">
+<img align="right" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993927374204838038/d927ec2-1487c3ad-5d81-4898-b78e-ee98f0e369a8.png">
 
 ```text
 I'm a very young developer
