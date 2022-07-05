@@ -8,7 +8,6 @@
 </p>
 </p>
 
-<br clear="left"/>
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp; |
@@ -26,8 +25,8 @@
   <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg"></code>&nbsp;
 </code>&nbsp;
 </p>
-<p align="left"><img alt="" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/></p>
 
+<br clear="left"/>
 ```py
 hidewow = {
     "names": ["hide", "hide-wow", "HideLeOuf", "leavexit"],
@@ -48,6 +47,7 @@ projects = [
     "other hidden projects 😉"
 ]
 ```
+<p align="left"><img alt="" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/></p>
 
 # About me
 ```text
