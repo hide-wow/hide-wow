@@ -39,7 +39,7 @@ hidewow = {
     "other activities": ["graphism", "music", "trolling"]
 }
 ```
-
+---
 ```py
 projects = [
     "Antic",
