@@ -40,6 +40,15 @@ hidewow = {
 }
 ```
 
+```py
+projects = [
+    "Antic",
+    "speak",
+    "pyrat",
+    "other hidden projects 😉"
+]
+```
+
 # About me
 ```text
 I'm a very young developer
