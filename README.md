@@ -26,7 +26,7 @@
 </code>&nbsp;
 </p>
 
-<p align="left"><img alt="" height="100" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/></p>
+<img alt="" height="200" align="right" src="https://cdn.discordapp.com/attachments/944685696797507624/993922925281431673/c6538e01d3ed5b4b2c07b5f03e04d71a.gif"/>
 
 ```py
 hidewow = {
